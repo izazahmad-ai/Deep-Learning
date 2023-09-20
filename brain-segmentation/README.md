@@ -19,7 +19,7 @@ This project focuses on evaluating the impact of low and high frequency distorti
 git clone https://github.com/JJBT/brain-segmentation.git
 cd brain-segmentation
 
-# [OPTIONAL] create conda environment
+# [OPTIONAL] Create conda environment
 conda create -n brain-segmentation
 conda activate brain-segmentation
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-Dataset (Multimodal Brain Tumor Segmentation Challenge 2020) for this project can be downloaded from the following page: [link](https://www.med.upenn.edu/cbica/brats2020/data.html).
+The dataset (Multimodal Brain Tumor Segmentation Challenge 2020) for this project can be downloaded from the following page: [link](https://www.med.upenn.edu/cbica/brats2020/data.html).
 
 ## Training
 
@@ -42,8 +42,6 @@ python3 validate.py --model_config <path> --data_config <path> --title <output f
 ```
 
 
-______________________________________________________________________
 
-# Contributors 
-This project was completed by [Vladimir Chernyavskiy](https://github.com/JJBT). If you have any questions or suggestions regarding this project, please feel free to contact me.
+
 
