@@ -1,0 +1,9 @@
+monai>=0.7.0
+tqdm>=4.59.0
+einops>=0.3.0
+omegaconf>=2.0.6
+nibabel>=3.2.1
+wandb>=0.10.30
+python-dotenv>=0.19.2
+matplotlib==3.5.0
+opencv-python
